@@ -1,0 +1,6 @@
+Metrics/LineLength:
+  Max: 120
+Style/ExtraSpacing:
+  Enabled: false
+StringLiterals:
+  Enabled: false
