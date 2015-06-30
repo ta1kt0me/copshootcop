@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-copshoot hound
+execute `copshoot hound`.[![Gyazo](http://i.gyazo.com/28b62f3dc3ed43d5849760cdd52a263b.png)](http://gyazo.com/28b62f3dc3ed43d5849760cdd52a263b)
 
 ## Development
 
