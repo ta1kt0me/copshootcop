@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'copshootcop'
+
+Copshootcop::CLI.start

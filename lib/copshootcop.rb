@@ -1,5 +1,5 @@
 require "copshootcop/version"
+require "copshootcop/cli"
 
 module Copshootcop
-  # Your code goes here...
 end
